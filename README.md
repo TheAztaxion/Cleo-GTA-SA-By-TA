@@ -1,2 +1,2 @@
-# GTASACleo
-CLEO 4 is a library hooking some exe functions and extending coding possibilities in GTA III, Vice City and San Andreas.
+# Grand Theft Auto: San Andreas
+Grand Theft Auto: San Andreas is a 2004 action-adventure game developed by Rockstar North and published by Rockstar Games. It is the seventh game in the Grand Theft Auto series, following Grand Theft Auto: Vice City (2002). It was released in October 2004 for PlayStation 2, and in June 2005 for Microsoft Windows and Xbox. The game is set within an open world environment that players can explore and interact with at their leisure. The story follows former gangster Carl "CJ" Johnson, who returns home after the death of his mother and is drawn back into his former gang and a life of crime while clashing with corrupt authorities and rival criminal syndicates. Carl's journey takes him across the fictional U.S. state of San Andreas, which is heavily based on California and Nevada.
